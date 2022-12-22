@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Mithun Software Solutions. Bengaluru,Karnataka </h1>
-<h1 align="center"> Vinodh devops practice- 
+<h1 align="center"> Vinodh devops practice ...- 
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
 
